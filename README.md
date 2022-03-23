@@ -6,7 +6,7 @@ When player is in combatthey have the choice of Attack, Magic, Item, or Surrende
 Group Members: Erik
 
 ## GUI IMAGE #1
-![Start Screen]()
+![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.png?raw=true)
 ## GUI IMAGE #2
 
 ## GUI IMAGE #3
