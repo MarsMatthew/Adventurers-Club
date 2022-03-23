@@ -18,10 +18,11 @@ Group Members: Erik
 Description of 2nd project in detail.
 Group Members: Erik
 
-## GUI IMAGE #1
-
-## GUI IMAGE #2
-
-## GUI IMAGE #3
-
-## Class Diagram
+## GUI Image #1
+![Start Screen](Url)
+## GUI Image #2
+![Background](Url)
+## GUI Image #3
+![Game over screen](Url)
+## Class Diagram #1
+![Class Diamgram](https://github.com/Erick-25/Programming-Project/blob/main/images/Hangman.png?raw=true)
