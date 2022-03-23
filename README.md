@@ -3,7 +3,8 @@ The player can move to checkpoints random incounters occur.
 The player must get to the end to defeat the boss.
 The Player can gain items from killing enemies or possibly buying them.
 When The player is in combat they have the choice of Attack, Magic, Item, or Surrender.
-Group Members: Erik
+
+Group Members: Erik, Matthew
 
 ## GUI IMAGE #1
 ![Start Screen]()
@@ -16,7 +17,8 @@ Group Members: Erik
 
 # ProgrammingProject #2: Hangman
 Description of 2nd project in detail.
-Group Members: Erik
+
+Group Members: Erik, Matthew
 
 ## GUI Image #1
 ![Start Screen](Url)
