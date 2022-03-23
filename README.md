@@ -1,17 +1,18 @@
 # ProgrammingProject #1: 2D rpg / text based adventure
-Player can move to checkpoints random incounters occur.
-the player must get to the end to defeat the boss.
-Player can gain items from killing enemies or possibly buying them.
-When player is in combatthey have the choice of Attack, Magic, Item, or Surrender.
+The player can move to checkpoints random incounters occur.
+The player must get to the end to defeat the boss.
+The Player can gain items from killing enemies or possibly buying them.
+When The player is in combat they have the choice of Attack, Magic, Item, or Surrender.
 Group Members: Erik
 
 ## GUI IMAGE #1
-![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.png?raw=true)
+![Start Screen]()
 ## GUI IMAGE #2
 
 ## GUI IMAGE #3
 
 ## Class Diagram
+![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.png?raw=true)
 
 # ProgrammingProject #2: Hangman
 Description of 2nd project in detail.
