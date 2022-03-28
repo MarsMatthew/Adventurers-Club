@@ -11,7 +11,7 @@ Group Members: Erik, Matthew
 ## GUI IMAGE #2
 
 ## GUI IMAGE #3
-
+![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/textendscreen.png?raw=true)
 ## Class Diagram
 ![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.png?raw=true)
 
@@ -25,6 +25,6 @@ Group Members: Erik, Matthew
 ## GUI Image #2
 ![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmnInGame.png?raw=true)
 ## GUI Image #3
-![Game over screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmanend.1.png?raw=true)
+![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmanend.1.png?raw=true)
 ## Class Diagram #1
 ![Class Diamgram](https://github.com/Erick-25/Programming-Project/blob/main/images/Hangman.png?raw=true)
