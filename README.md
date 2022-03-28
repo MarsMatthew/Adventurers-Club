@@ -9,7 +9,7 @@ Group Members: Erik, Matthew
 ## GUI IMAGE #1
 ![Start Screen]()
 ## GUI IMAGE #2
-
+![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/dagger.png?raw=true)
 ## GUI IMAGE #3
 ![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/textendscreen.png?raw=true)
 ## Class Diagram
