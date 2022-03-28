@@ -7,7 +7,7 @@ When The player is in combat they have the choice of Attack, Magic, Item, or Sur
 Group Members: Erik, Matthew
 
 ## GUI IMAGE #1
-![Start Screen]()
+![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/strtScreen.png?raw=true)
 ## GUI IMAGE #2
 ![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/dagger.png?raw=true)
 ## GUI IMAGE #3
