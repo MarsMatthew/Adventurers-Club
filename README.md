@@ -23,7 +23,7 @@ Group Members: Erik, Matthew
 ## GUI Image #1
 ![Start Screen](Url)
 ## GUI Image #2
-![Background](Url)
+![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmnInGame.png?raw=true)
 ## GUI Image #3
 ![Game over screen](Url)
 ## Class Diagram #1
