@@ -17,7 +17,7 @@ Group Members: Erik, Matthew
 ![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.drawio.png?raw=true)
 
 # ProgrammingProject #2: Hangman
-A hangman mock hangman game that follws most o fthe basica setups of a a traditional game 
+A hangman mock hangman game that follws most of the basica setups of a a traditional game 
 Group Members: Erick, Matthew
 
 ## GUI Image #1
