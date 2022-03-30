@@ -1,14 +1,9 @@
 # ProgrammingProject #1: 2D rpg / text based adventure
 The player can move to locations with the ability to move backwards and fowards and random encounters may occur.
-
 The player's goal is to get to the end to defeat the boss.
-
 The player can gain items from killing enemies or buying them.
-
 When The player is in combat they have the choice of Attack, Magic, Item, or Surrender (or dying).
-
 This game will play similarly to the oregon trail game, without the dysentery of course.
-
 
 Group Members: Erik, Matthew
 
