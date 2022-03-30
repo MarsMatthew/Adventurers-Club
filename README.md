@@ -1,5 +1,5 @@
 # ProgrammingProject #1: 2D rpg / text based adventure
-The player can move to checkpoints random incounters occur.
+The player can move to checkpoints random encounters occur.
 The player must get to the end to defeat the boss.
 The Player can gain items from killing enemies or possibly buying them.
 When The player is in combat they have the choice of Attack, Magic, Item, or Surrender.
