@@ -28,4 +28,4 @@ The background will not be pink. The pink background was used in this mockup in 
 ## GUI Image #3
 ![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmanend.1.png?raw=true)
 ## Class Diagram #1
-![Class Diamgram](https://github.com/Erick-25/Programming-Project/blob/main/images/Hangman.png?raw=true)
+![Class Diamgram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/Hangman.png?raw=true)
