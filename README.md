@@ -13,7 +13,7 @@ Group Members: Erik, Matthew
 ## GUI IMAGE #3
 ![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/perished.png?raw=true)
 ## Class Diagram
-![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.png?raw=true)
+![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.drawio.png?raw=true)
 
 # ProgrammingProject #2: Hangman
 Description of 2nd project in detail.
