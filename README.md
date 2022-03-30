@@ -23,6 +23,7 @@ Group Members: Erick, Matthew
 ## GUI Image #1
 ![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/startscreen1.png?raw=true)
 ## GUI Image #2
+The background will not be pink. The pink background was used in this mockup in order for it to be more visible.
 ![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmnInGame.png?raw=true)
 ## GUI Image #3
 ![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/hangmanend.1.png?raw=true)
