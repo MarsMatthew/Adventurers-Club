@@ -11,7 +11,7 @@ Group Members: Erik, Matthew
 ## GUI IMAGE #2
 ![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/dagger.png?raw=true)
 ## GUI IMAGE #3
-![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/textendscreen.png?raw=true)
+![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/perished.png?raw=true)
 ## Class Diagram
 ![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.png?raw=true)
 
