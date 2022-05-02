@@ -8,11 +8,11 @@ This game will play similarly to the Oregon trail game, without the dysentery of
 Group Members: Erik, Matthew
 
 ## GUI IMAGE #1
-![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/strtScreen.png?raw=true)
+![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/StartScreen.png?raw=true)
 ## GUI IMAGE #2
-![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/dagger.png?raw=true)
+![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/InGame.png?raw=true)
 ## GUI IMAGE #3
-![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/perished.png?raw=true)
+![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/GiveUp.png?raw=true)
 ## Class Diagram
 ![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.drawio.png?raw=true)
 
