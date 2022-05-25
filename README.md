@@ -7,7 +7,7 @@ This game will play similarly to the Oregon trail game made by Don Rawitsch, et 
 
 Game designed in Replit.
 
-Group Members: Erik, Matthew
+Group Members: Erick, Matthew
 
 ## Welcome Screen
 ![Start Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/StartScreen.png?raw=true)
