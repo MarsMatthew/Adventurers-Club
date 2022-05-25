@@ -12,7 +12,7 @@ Group Members: Erik, Matthew
 ## In Game Screen
 ![In-Game](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/InGame.png?raw=true)
 ## Game Over
-![Game Over Screen](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/GiveUp.png?raw=true)
+![Game Over Screen](https://github.com/MarsMatthew/Adventurers-Club/blob/main/images/Death.png?raw=true)
 ## Class Diagram
 ![Diagram](https://github.com/MarsMatthew/ProgrammingProjects/blob/main/images/RPGgame.drawio.png?raw=true)
 
